@@ -1,6 +1,6 @@
 *.class
 *.log
-*.txt
+**/*.txt
 
 **/.metals
 **/.scala-build
